@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws/awsutil"
-	"github.com/ks3sdklib/aws-sdk-go/service/s3"
+	"github.com/cittie/aws-sdk-go/aws/awsutil"
+	"github.com/cittie/aws-sdk-go/service/s3"
 )
 
 // The default range of bytes to get at a time when using Download().

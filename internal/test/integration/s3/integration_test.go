@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws"
-	"github.com/ks3sdklib/aws-sdk-go/internal/test/integration"
-	"github.com/ks3sdklib/aws-sdk-go/service/s3"
+	"github.com/cittie/aws-sdk-go/aws"
+	"github.com/cittie/aws-sdk-go/internal/test/integration"
+	"github.com/cittie/aws-sdk-go/service/s3"
 	"github.com/stretchr/testify/assert"
 )
 

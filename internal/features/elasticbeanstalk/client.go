@@ -2,8 +2,8 @@
 package elasticbeanstalk
 
 import (
-	"github.com/ks3sdklib/aws-sdk-go/internal/features/shared"
-	"github.com/ks3sdklib/aws-sdk-go/service/elasticbeanstalk"
+	"github.com/cittie/aws-sdk-go/internal/features/shared"
+	"github.com/cittie/aws-sdk-go/service/elasticbeanstalk"
 	. "github.com/lsegal/gucumber"
 )
 

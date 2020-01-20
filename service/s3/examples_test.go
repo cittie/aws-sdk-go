@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws"
-	"github.com/ks3sdklib/aws-sdk-go/aws/awserr"
-	"github.com/ks3sdklib/aws-sdk-go/aws/awsutil"
-	"github.com/ks3sdklib/aws-sdk-go/service/s3"
+	"github.com/cittie/aws-sdk-go/aws"
+	"github.com/cittie/aws-sdk-go/aws/awserr"
+	"github.com/cittie/aws-sdk-go/aws/awsutil"
+	"github.com/cittie/aws-sdk-go/service/s3"
 )
 
 var _ time.Duration

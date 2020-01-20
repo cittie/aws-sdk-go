@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws/awserr"
-	"github.com/ks3sdklib/aws-sdk-go/aws/credentials"
-	"github.com/ks3sdklib/aws-sdk-go/internal/apierr"
+	"github.com/cittie/aws-sdk-go/aws/awserr"
+	"github.com/cittie/aws-sdk-go/aws/credentials"
+	"github.com/cittie/aws-sdk-go/internal/apierr"
 	"github.com/stretchr/testify/assert"
 )
 

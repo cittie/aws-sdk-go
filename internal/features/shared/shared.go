@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws"
-	"github.com/ks3sdklib/aws-sdk-go/aws/awserr"
-	"github.com/ks3sdklib/aws-sdk-go/aws/awsutil"
+	"github.com/cittie/aws-sdk-go/aws"
+	"github.com/cittie/aws-sdk-go/aws/awserr"
+	"github.com/cittie/aws-sdk-go/aws/awsutil"
 	. "github.com/lsegal/gucumber"
 	"github.com/stretchr/testify/assert"
 )

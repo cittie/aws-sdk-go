@@ -2,8 +2,8 @@
 package storagegateway
 
 import (
-	"github.com/ks3sdklib/aws-sdk-go/internal/features/shared"
-	"github.com/ks3sdklib/aws-sdk-go/service/storagegateway"
+	"github.com/cittie/aws-sdk-go/internal/features/shared"
+	"github.com/cittie/aws-sdk-go/service/storagegateway"
 	. "github.com/lsegal/gucumber"
 )
 

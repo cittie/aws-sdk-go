@@ -2,8 +2,8 @@
 package sns
 
 import (
-	"github.com/ks3sdklib/aws-sdk-go/internal/features/shared"
-	"github.com/ks3sdklib/aws-sdk-go/service/sns"
+	"github.com/cittie/aws-sdk-go/internal/features/shared"
+	"github.com/cittie/aws-sdk-go/service/sns"
 	. "github.com/lsegal/gucumber"
 )
 

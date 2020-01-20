@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws"
-	"github.com/ks3sdklib/aws-sdk-go/internal/apierr"
+	"github.com/cittie/aws-sdk-go/aws"
+	"github.com/cittie/aws-sdk-go/internal/apierr"
 )
 
 type xmlErrorResponse struct {

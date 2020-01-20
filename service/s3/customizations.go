@@ -1,6 +1,6 @@
 package s3
 
-import "github.com/ks3sdklib/aws-sdk-go/aws"
+import "github.com/cittie/aws-sdk-go/aws"
 
 func init() {
 	initService = func(s *aws.Service) {

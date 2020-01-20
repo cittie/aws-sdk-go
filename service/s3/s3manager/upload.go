@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ks3sdklib/aws-sdk-go/aws/awserr"
-	"github.com/ks3sdklib/aws-sdk-go/aws/awsutil"
-	"github.com/ks3sdklib/aws-sdk-go/internal/apierr"
-	"github.com/ks3sdklib/aws-sdk-go/service/s3"
+	"github.com/cittie/aws-sdk-go/aws/awserr"
+	"github.com/cittie/aws-sdk-go/aws/awsutil"
+	"github.com/cittie/aws-sdk-go/internal/apierr"
+	"github.com/cittie/aws-sdk-go/service/s3"
 )
 
 // The maximum allowed number of parts in a multi-part upload on Amazon S3.
